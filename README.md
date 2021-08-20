@@ -13,6 +13,7 @@
 ☆pip install requests
 
 ☆git clone https://github.com/AXEYEDKHA/Report_Fb.git
+
 ☆cd Report_Fb
 
 ☆python Auto_Report.so
