@@ -19,3 +19,9 @@
 ☆python Auto_Report.so
 
 Enjoy 😎😎🤓🤓
+
+# Preview
+
+<img src = "2021_08_20_05_31_42.jpg">
+
+<img src ="2021_08_20_05_32_06.jpg
